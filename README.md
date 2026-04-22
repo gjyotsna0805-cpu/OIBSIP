@@ -104,7 +104,7 @@ Any IDE (IntelliJ IDEA / Eclipse / VS Code)
 Installation & Execution
 Bash
 # Clone the repository
-git clone https://github.com/your-username/java-projects.git
+git clone https://github.com/gjyotsna0805-cpu/java-projects.git
 
 # Navigate to project directory
 cd java-projects
@@ -137,5 +137,6 @@ If you’d like to improve any project, feel free to fork the repository and sub
 This project is open-source and available under the MIT License.
 
 👤 Author
+
 Jyotsna
 📍 India
